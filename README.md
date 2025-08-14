@@ -5,6 +5,7 @@ Este projeto analisa as despesas dos senadores brasileiros com base nos dados do
 
 ## 📊 Sobre os Dados 
 Todos os dados utilizados estão disponiveis no site oficial do Senado: (https://www12.senado.leg.br/transparencia/dados-abertos-transparencia/dados-abertos-ceaps)
+
 Esse projeto é totalmente e exclusivamente para estudo, em nenhum momento tive a intensão de julgar ou criticar nenhuma pessoa dessa pesquisa.
 
 ---
@@ -33,17 +34,17 @@ Esse projeto é totalmente e exclusivamente para estudo, em nenhum momento tive 
 
 ## 📊 Análises
 - **Top 15 - Senadores com mais declarações**
-[Top 15 Senadores com mais declarações](./img/top_15_senadores.png)
+![Top 15 Senadores com mais declarações](./img/top_15_senadores.png)
 - **Top 15 - Senadores com maior gasto total (R$)**
-[Top 15 Senadores com mais gastos](./img/top_15_gastos_senadores.png)
+![Top 15 Senadores com mais gastos](./img/top_15_gastos_senadores.png)
 - **Categorias de despesa mais comuns**
-[Tipos de Gastos](./img/quantidade_tipo.png)  
+![Tipos de Gastos](./img/quantidade_tipo.png)  
 - **Comparação de gastos por ano**
-[Gastos por Ano](./img/gastos_por_ano.png)  
+![Gastos por Ano](./img/gastos_por_ano.png)  
 - **Top 15 - Fornecedores mais Declarados**  
-[Fornecedores mais declarados](./img/fornecedores_mais_declarados.png)
+![Fornecedores mais declarados](./img/fornecedores_mais_declarados.png)
 - **Dashboard Streamlit**
-[Em Breve]()
+![Em Breve]()
 
 ---
 
