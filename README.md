@@ -6,7 +6,7 @@ Este projeto analisa as despesas dos senadores brasileiros com base nos dados do
 ## 📊 Sobre os Dados 
 Todos os dados utilizados estão disponiveis no site oficial do Senado: (https://www12.senado.leg.br/transparencia/dados-abertos-transparencia/dados-abertos-ceaps)
 
-Esse projeto é totalmente e exclusivamente para estudo, em nenhum momento tive a intensão de julgar ou criticar nenhuma pessoa dessa pesquisa.
+Esse projeto é totalmente e exclusivamente para estudo, em nenhum momento tive a intenção de julgar ou criticar nenhuma pessoa dessa pesquisa.
 
 ---
 
